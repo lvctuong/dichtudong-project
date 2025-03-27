@@ -1,0 +1,5 @@
+pytesseract
+google-cloud-speech
+google-cloud-translate
+boto3
+ffmpeg-python
